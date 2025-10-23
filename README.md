@@ -20,7 +20,6 @@
 
 <h3 align="center">No lo se todo, pero estare agradecido de escuchar ya que siempre estoy en constante aprendizaje</h3> 
 <p align="center">
-  <img width="500" height="350" src="https://cdn.bizneo.com/blog/wp-content/uploads/2019/08/Learning-Management-System-810x455.jpeg">
 </p>
 
 
