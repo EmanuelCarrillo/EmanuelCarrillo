@@ -11,11 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcarrillo" /> </p>
 
-- 🛠️ Estoy aprendiendo actualmente 🛠️ **Desarrollo web, Frameworks.**
+- 🛠️ Estoy aprendiendo actualmente 🛠️ **Desarrollo web, Frameworks,bases de datos, redes, entre otros.**
 
 - 💿 Datos Interesantes 💿 **Me gusta el rock y los videojuegos.**
 
-- 📨 Puedes contactarme en 📨 **https://twitter.com/Carraxdax**
+- 📨 Puedes contactarme en 📨 **No tengo actualmente.**
 
 
 <h3 align="center">No lo se todo, pero estare agradecido de escuchar ya que siempre estoy en constante aprendizaje</h3> 
